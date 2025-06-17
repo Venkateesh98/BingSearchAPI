@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "LocationAPI.Controllers.LocationsController",
+    "Method": "GetAvailableLocations",
+    "RelativePath": "api/locations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
